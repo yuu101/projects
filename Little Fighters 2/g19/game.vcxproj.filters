@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{1a913106-0be0-4476-b0ce-2aa855072614}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;cnt;rtf;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="MFC">
+      <UniqueIdentifier>{da904ee8-7f59-4a6c-b3ff-b91b6fb6d0ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLibrary">
+      <UniqueIdentifier>{df7aa532-3fdf-46a0-b3fc-8f5922e8d9e4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Res\ball.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp0.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp10.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp3.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp4.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp5.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp6.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp7.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp8.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\bmp9.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\center.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\continue.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Res\corner.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\eraser1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\eraser2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\eraser3.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\game.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\game.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\gamecurs.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\gameDoc.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\help.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\loading.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="RES\ntutcsie.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\mygame.cpp" />
+    <ClCompile Include="Source\audio.cpp">
+      <Filter>GameLibrary</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\game.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\gameDoc.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\gamelib.cpp">
+      <Filter>GameLibrary</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\gameView.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MainFrm.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\StdAfx.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\original.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\mygame.h" />
+    <ClInclude Include="Source\audio.h">
+      <Filter>GameLibrary</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\game.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\gameDoc.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\gamelib.h">
+      <Filter>GameLibrary</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\gameView.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\MainFrm.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Resource.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\StdAfx.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Source\game.rc">
+      <Filter>MFC</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="RES\開始畫面-1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\人物A.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\人物B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\test.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\mapA.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\mapB.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\人物A-2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\人物B-2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\user\Desktop\g19\RES\mapA.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\user\Desktop\g19\RES\mapB.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\user\Desktop\g19\RES\人物A-2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\user\Desktop\g19\RES\人物B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\user\Desktop\g19\RES\人物B-2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\user\Desktop\g19\RES\AttackA_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\user\Desktop\g19\RES\AttackB_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\user\Desktop\g19\RES\B_weapon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\user\Desktop\g19\RES\AttackB_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap7.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\user\Desktop\g19\RES\AttackA_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\bar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\blood.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\mana.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\jumpA_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\jumpA_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\jumpB_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\jumpB_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\defendA_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\defendA_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\defendB_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\defendB_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\test_weapon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\開始畫面-選取.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap8.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\runA_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\runA_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\runB_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\runB_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\runA_L_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\runA_R_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\runB_L_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\runB_R_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\playerA.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\playerB.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\A_specialAttack_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\A_specialAttack_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\AttackB_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\B_weapon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\AttackB_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\AttackA_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\AttackA_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\Aweapon_Continue_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\Aweapon_Continue_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\人物A-2a.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\人物Aa.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\人物B-2b.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\人物Bb.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\A_walk_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\A_walk_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\B_walk_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\B_walk_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\AttackA_L_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\AttackA_R_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\Askill1_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\Askill1_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\Askill2_L.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\Askill2_R.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\Askill3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\B_DLJ1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\B_DLJ2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\B_DRJ1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\B_DRJ2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\toolKind_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\toolKind_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\toolKind_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\toolKind_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\toolKind_5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\toolKind_6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\toolKind_7.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\toolKind_8.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\END_A1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\END_A2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\END_B1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\END_B2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\introduce.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\S-1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\PA.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\PA-2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\PB.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\PB-2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\S-S.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\PA-2a.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\PAa.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\PB-2b.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RES\PBb.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,67 @@
+﻿.body
+{
+    text-align: center;
+    height: 729px;
+    width: 546px;
+}
+
+
+.title
+{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 標楷體;
+}
+
+
+.subTitle
+{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.userName
+{
+      font-weight: bold;
+    font-family: 標楷體;
+   font-size: x-large;
+}
+
+.placeTitle
+{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 標楷體;
+    color: Red;
+}
+
+.tableHead
+{
+    text-align: center;
+    white-space: nowrap;
+}
+
+.tableContent
+{
+    text-align: left;
+}
+
+.Content
+{
+    font-family: 標楷體;
+}
+
+table{
+    margin: 0 auto !important;
+}
+
+#mapCanvas, #streetViewCanvas {
+    margin: 0 auto;
+}
+
+.ga-view {
+  position: fixed;
+  right: 8.5%;
+  top: 57%;
+  margin: 0 auto;
+}

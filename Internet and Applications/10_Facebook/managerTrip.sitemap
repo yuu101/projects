@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/10_Facebook/" title=""  description="">
+
+    <siteMapNode url="~/10_Facebook/homePage.html" title="網站首頁"  description="" />
+
+    <siteMapNode url="~/10_Facebook/admin/tour.aspx" title="商品管理"  description="" />
+    <siteMapNode url="~/10_Facebook/admin/hotTours.aspx" title="業務績效"  description="" />
+    <siteMapNode url="~/10_Facebook/admin/keyBuyers.aspx" title="顧客分析"  description="" />
+
+  </siteMapNode>
+</siteMap>

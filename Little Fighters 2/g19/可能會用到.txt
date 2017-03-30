@@ -1,0 +1,3 @@
+跳出視窗位置在 MAINFRM.cpp
+
+BOOL CMainFrame::PreCreateWindow(CREATESTRUCT& cs)
