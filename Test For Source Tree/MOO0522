@@ -1,0 +1,207 @@
+;
+;**********  Order Information  **********
+;5PC52AV - HP IDS UMA i7-8565U 8GB 13
+;	Category=BUNIT
+;	MMN=13-aq0001
+;	MarketingName=HP Envy
+;
+;5PH56AV - A Cover Natural Silver Aluminum
+;	Category=IDMECH
+;	SMBIOSAdd=GPIO_NonG
+;	SMBIOSAddFBYT=g2
+;	MMN=A Cover Natural Silver Aluminum
+;
+;***WARNING*** 5RY37AV#ABA does not have an entry in either the .scmx or the .cisx file!
+;
+;5RY37AV - ENVY 1C19 Country Localization
+;	Category=CKIT
+;	Locale=ABA
+;	MMN=ENVY 1C19 Country Localization
+;
+;5JJ22AV - 19C1 Cycle AV
+;	Category=CYCLE_AV
+;	SMBIOSAdd=Chan=Retail;ATF_PALT;HWD_GMPP;SEG.CON;SL.PRE;PCBR.HP;CT.NB;R_STD;CC_BLU;IS_M30d;DL_FW
+;	SMBIOSAddFBYT=3K7j7B7K7N7WawbhbBcbfP
+;	MMN=19C1 Cycle AV
+;
+;A2R41AV - FLAG ENERGY STAR PHTM
+;	Category=DIB2
+;	SMBIOSAdd=Estar
+;	SMBIOSAddFBYT=aB
+;	MMN=FLAG ENERGY STAR PHTM
+;
+;Y8K52AV - DIB GDE HP INC WARR 1/1/0 US ENG
+;	Category=DIB2
+;	MMN=DIB GDE HP INC WARR 1/1/0 US ENG
+;
+;5PC53AV - Panel LCD 13.3 inch FHD (1920x1080) BrightView WLED UWVA 300 eDP+PSR ultraslim Narrow Bezel
+;	Category=LCD
+;	MMN=Panel LCD 13.3 inch FHD (1920x1080) BrightView WLED UWVA 300 eDP+PSR ultraslim Narrow Bezel
+;
+;5PC59AV - SSD 256GB M.2 2280 PCIe-3x4 NVMe Three Layer Cell
+;	Category=INSTOR
+;	MMN=SSD 256GB M.2 2280 PCIe-3x4 NVMe Three Layer Cell
+;
+;***WARNING*** 5RY35AV#ABA does not have an entry in either the .scmx or the .cisx file!
+;
+;5RY35AV - Natural Silver Island Style Keyboard Clickpad with Image Sensor Backlit Standard Notebook Keyboard
+;	Category=KYBD
+;	Locale=ABA
+;	MMN=Natural Silver Island Style Keyboard Clickpad with Image Sensor Backlit Standard Notebook Keyboard
+;
+;5PN43AV - Intel Jefferson Peak2 9560 ac 2x2 MU-MIMO +Bluetooth 5 M.2 non-vPro CNVi WW with 2 Antennas
+;	Category=NET
+;	MMN=Intel Jefferson Peak2 9560 ac 2x2 MU-MIMO +Bluetooth 5 M.2 non-vPro CNVi WW with 2 Antennas
+;
+;5CK70AV - OST Win 10 Pro 64
+;	Category=OS
+;	SMBIOSAdd=OS=MSV;Vos.B;ATF_HAL.64;GPT;OA3;ATF_OS.T;WINT_X;DPK_W10
+;	SMBIOSAddFBYT=3X476bapaqdpdqdU
+;	MMN=OST Win 10 Pro 64
+;
+;1KZ19AV - DIB DVD DVDSM EXT Tray Cons 2017
+;	Category=OPT1
+;	SMBIOSAdd=DVDRW
+;	SMBIOSAddFBYT=3Q
+;	MMN=DIB DVD DVDSM EXT Tray Cons 2017
+;
+;***WARNING*** 4VR54AV#ABA does not have an entry in either the .scmx or the .cisx file!
+;
+;4VR54AV - OS Localization
+;	Category=OSLOC
+;	Locale=ABA
+;	MMN=OS Localization
+;
+;***WARNING*** 2WL57AV#ABA does not have an entry in either the .scmx or the .cisx file!
+;
+;2WL57AV - C5 Premium 1.0m Power Cord Sticker
+;	Category=PWRCRD
+;	Locale=ABA
+;	MMN=C5 Premium 1.0m Power Cord Sticker
+;
+;5PC39AV - AC Adapter 65 Watt nPFC Slim Black Barrel 4.5mm Straight (Khaos)
+;	Category=ACADPT
+;	MMN=AC Adapter 65 Watt nPFC Slim Black Barrel 4.5mm Straight (Khaos)
+;
+;5PX24AV - Battery 4 Cell WHr 53 Long Life -PL Fast Charge
+;	Category=BATT
+;	MMN=Battery 4 Cell WHr 53 Long Life -PL Fast Charge
+;
+;3PN54AV - MISC HEVC MEDIA EXTENSION HP
+;	Category=TECHAV
+;	SMBIOSAdd=HEVC
+;	SMBIOSAddFBYT=hZ
+;	MMN=MISC HEVC MEDIA EXTENSION HP
+;
+;***WARNING*** 5PC63AV#ABA does not have an entry in either the .scmx or the .cisx file!
+;
+;5PC63AV - 1/1/0
+;	Category=WRRTY
+;	Locale=ABA
+;	MMN=1/1/0
+;
+;**********  ATF Output  **********
+;Build_ID=19WW1MHT6AI#SABA#DABA
+;Feature_Byte=3K3Q3X476b7B7K7N7W7jaBapaqawbBbhcbdUdpdqfPg2hZ.3h
+;DMI_String=ATF_HAL.64;ATF_OS.T;ATF_PALT;CC_BLU;Chan=Retail;CT.NB;DL_FW;DPK_W10;DVDRW;Estar;GPIO_NonG;GPT;HEVC;HWD_GMPP;IS_M30d;OA3;OS=MSV;PCBR.HP;R_STD;SEG.CON;SL.PRE;Vos.B;WINT_X;
+;    ATF_HAL.64
+;    ATF_OS.T
+;    ATF_PALT
+;    CC_BLU
+;    Chan=Retail
+;    CT.NB
+;    DL_FW
+;    DPK_W10
+;    DVDRW
+;    Estar
+;    GPIO_NonG
+;    GPT
+;    HEVC
+;    HWD_GMPP
+;    IS_M30d
+;    OA3
+;    OS=MSV
+;    PCBR.HP
+;    R_STD
+;    SEG.CON
+;    SL.PRE
+;    Vos.B
+;    WINT_X
+;PCR_File=D:\Tools\PCR\Data\PCRMANAGER\PCR_CURRENT\MOOREA_943376_190517_S1.PCR
+;SCMX_File=D:\Tools\SCMxFiles\Current\Moorea-Notebook_-_Consumer-Cons_-_ENVY_Laptop_Rev-70-0-0-a.SCMX
+;ML_Prefix=CNB
+;CRM=00
+;MMN=13-aq0001
+;MarketingName=HP Envy
+;ATF_Version=0.9.18.1
+;
+;[Option_Map]
+;d8=AFO
+;hA=AoW
+;6b=ATF_HAL.64
+;dp=ATF_OS.T
+;7j=ATF_PALT
+;bB=CC_BLU
+;3H=Chan=CTO
+;3K=Chan=Retail
+;d7=CPPP
+;aw=CT.NB
+;fP=DL_FW
+;j6=DPK_ADV
+;jX=DPK_AFPPP
+;hG=DPK_APAC
+;dX=DPK_High-End
+;hF=DPK_IDPPP
+;hw=DPK_IPPP
+;dU=DPK_W10
+;3Q=DVDRW
+;aB=Estar
+;g2=GPIO_NonG
+;ap=GPT
+;hZ=HEVC
+;7B=HWD_GMPP
+;8A=IS_M1y
+;cu=IS_M2y
+;cb=IS_M30d
+;cv=IS_M3y
+;aq=OA3
+;3X=OS=MSV
+;7W=PCBR.HP
+;fn=PROD_MSOFF365_EM_LB
+;fm=PROD_MSOFF365_MA_LB
+;cJ=PROD_MSOFF365PERS
+;6H=PROD_MSOFFHB
+;fE=PROD_MSOFFHB16
+;jJ=PROD_MSOFFHB19
+;jF=PROD_MSOFFHB19_LB
+;fq=PROD_MSOFFHO365_EM_LB
+;fp=PROD_MSOFFHO365_MA_LB
+;4H=PROD_MSOFFHS
+;jB=PROD_MSOFFHS19_CH_LB
+;jE=PROD_MSOFFHS19_EM_LB
+;jC=PROD_MSOFFHS19_IN_LB
+;jD=PROD_MSOFFHS19_MA_LB
+;jG=PROD_MSOFFP19_LB
+;4F=PROD_MSOFFPER
+;fF=PROD_MSOFFPER16
+;jK=PROD_MSOFFPER19
+;dr=PROD_MSOFFPRE
+;3f=PROD_MSOFFPRO
+;6J=PROD_MSOFFSTA
+;bx=R_AMZ
+;9C=R_CostCo
+;gD=R_DIX
+;gU=R_ELKJOP
+;bg=R_MIC
+;aN=R_SAM
+;bh=R_STD
+;3a=R_WM
+;7K=SEG.CON
+;7N=SL.PRE
+;47=Vos.B
+;at=Vos.CH
+;as=Vos.ML
+;ar=Vos.SL
+;dq=WINT_X
+;**********************************
+;
